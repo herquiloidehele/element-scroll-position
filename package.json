@@ -1,0 +1,25 @@
+{
+  "name": "element-scroll-position",
+  "version": "0.0.1",
+  "description": "This is a simple library to get the scroll position of an element",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "respository": {
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "scroll",
+    "position",
+    "element"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
