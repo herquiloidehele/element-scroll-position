@@ -1,6 +1,6 @@
 {
   "name": "element-scroll-position",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a simple library to get the scroll position of an element",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
